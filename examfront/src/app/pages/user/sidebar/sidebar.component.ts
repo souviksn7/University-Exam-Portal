@@ -8,35 +8,35 @@ import { Component } from '@angular/core';
 export class SidebarComponent {
   semesters = [
     {
-      semesterId: "61",
+      semesterId: "51",
       title: "Semester 1",
     },
     {
-      semesterId: "62",
+      semesterId: "52",
       title: "Semester 2",
     },
     {
-      semesterId: "63",
+      semesterId: "53",
       title: "Semester 3",
     },
     {
-      semesterId: "64",
+      semesterId: "54",
       title: "Semester 4",
     },
     {
-      semesterId: "65",
+      semesterId: "55",
       title: "Semester 5",
     },
     {
-      semesterId: "66",
+      semesterId: "56",
       title: "Semester 6",
     },
     {
-      semesterId: "67",
+      semesterId: "57",
       title: "Semester 7",
     },
     {
-      semesterId: "68",
+      semesterId: "58",
       title: "Semester 8",
     },
     
